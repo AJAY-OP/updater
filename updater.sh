@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 VERSION="0.0.01"
-SCRIPT_URL=''
+SCRIPT_URL='https://raw.githubusercontent.com/AJAY-OP/updater/main/updater.sh'
 SCRIPT_DESCRIPTION=""
 SCRIPT_LOCATION="${BASH_SOURCE[@]}"
 
